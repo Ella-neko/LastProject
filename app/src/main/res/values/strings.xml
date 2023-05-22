@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LastProject</string>
+    <string-array name="note_title_text">
+        <item>棒棒糖</item>
+        <item>巧克力</item>
+        <item>飲料</item>
+        <item>洋芋片</item>
+        <item>甜甜圈</item>
+        <item>蛋糕</item>
+        <item>薯條</item>
+        <item>炸雞</item>
+        <item>滷味</item>
+        <item>便當</item>
+    </string-array>
+
+    <string-array name="note_detail_text">
+        <item>25元\n150大卡\n甜食類</item>
+        <item>63元\n546.6大卡\n甜食類</item>
+        <item>75元\n562大卡\n甜食類</item>
+        <item>42元\n536.1大卡\n鹹食類</item>
+        <item>46元\n432.7大卡\n甜食類</item>
+        <item>85元\n305大卡\n甜食類</item>
+        <item>55元\n311.9大卡\n鹹食類</item>
+        <item>599元\n1200大卡\n鹹食類</item>
+        <item>125元\n432.6大卡\n鹹食類</item>
+        <item>95元\n805大卡\n鹹食類</item>
+    </string-array>
+</resources>
